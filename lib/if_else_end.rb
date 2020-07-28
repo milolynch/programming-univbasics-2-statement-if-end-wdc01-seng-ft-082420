@@ -1,1 +1,1 @@
-My_time = time.now
+My_time = Time.now
